@@ -1,11 +1,13 @@
 @font-face {
   font-weight: 700;
+  font-display: swap;
   font-family: 'Onest';
   src: url(fonts/Onest-Bold.woff);
 }
 
 @font-face {
   font-weight: 400;
+  font-display: swap;
   font-family: 'Onest';
   src: url(fonts/Onest-Regular.woff);
 }
